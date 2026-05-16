@@ -1,0 +1,12 @@
+header{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: pink;
+    font-weight: bold;
+    font-size: 1.25rem;
+}
+header img{
+    width: 50px;
+}
