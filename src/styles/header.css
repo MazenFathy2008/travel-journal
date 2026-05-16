@@ -6,6 +6,8 @@ header{
     background-color: pink;
     font-weight: bold;
     font-size: 1.25rem;
+    border-radius: 5px;
+    margin-top: -3px;
 }
 header img{
     width: 50px;

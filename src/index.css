@@ -8,12 +8,12 @@ body{
   align-items: center;
   background-color: antiquewhite;
   color: white;
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family: sans-serif;
 }
 #root{
   width: 30%;
   height: 65%;
-  border: 3px solid pink;
+  border: 10px solid rgb(243, 243, 243);
   border-radius:10px;
   background-color: white;
 }

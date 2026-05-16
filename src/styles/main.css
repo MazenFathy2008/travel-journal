@@ -1,0 +1,11 @@
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    gap: 20px;
+    align-items: center;
+    color: black;
+    padding: 10px;
+    overflow:auto;
+    height: 75%;
+}
