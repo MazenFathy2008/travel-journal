@@ -4,7 +4,7 @@ import data from "../database.js";
 export default function Main(){
     return(
         <main>
-            {data.map((place)=>(<Card data ={place}/>))}
+            {data.map((place)=>(<Card {...place}/>))}
         </main>
     )
 }

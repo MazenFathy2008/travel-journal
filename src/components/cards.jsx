@@ -1,5 +1,5 @@
 import "../styles/cards.css"
-export default function Card({data, ...porps}){
+export default function Card(data){
     console.log(data)
     return (
         <section>
@@ -11,7 +11,7 @@ export default function Card({data, ...porps}){
                     <a href={data.googleL} target="_blank">view on Google maps</a>
                 </span>
                 <h1>{data.locationName}</h1>
-                <span className="date">{porps.date}</span>
+                <span className="date">{data.date}</span>
                 <p>{data.info}</p>
             </div>
         </section>
