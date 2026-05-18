@@ -1,6 +1,7 @@
-# Travel Journal Website
+# Travel Journal Website Description.
+It's a simple travel journal static website. It consists of One main section, which contains cards components, Each component of them contains some informations about the location and the time of visit and another simple informations.
 
-A simple static travel journal website built with React and CSS. This project was created to practice core React concepts, especially props and data flow between components.
+![Project Screenshot](./screenshots/image.png)
 
 ## What I Learned
 - How to use props to pass data between components  
@@ -10,7 +11,7 @@ A simple static travel journal website built with React and CSS. This project wa
 ## Built With
 - React  
 - CSS  
-- JavaScript (ES6+)  
+- JavaScript
 
 ## Features
 - Static travel journal layout  
